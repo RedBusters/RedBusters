@@ -20,7 +20,7 @@ class mallory{
 };
 ```
 
-<!--
+
 
 - 🔭 I’m currently working on my indie game project made with Godot that i'll probably never finish. ;)
 - 🌱 I’m currently learning Russian language and how to write better quality code. 
@@ -34,4 +34,4 @@ class mallory{
     - I had a Minecraft server, with only plugins made by myself, a really great fps games with a unique twist, battles with kits and superpowers,
       eggwars, and i was working on re-creating Dead By Daylight in Minecraft.But it never got a lot of player so i decided to stop it.
     
---> Loves open-source software
+=> Loves open-source software
